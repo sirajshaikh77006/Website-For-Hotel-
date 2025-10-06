@@ -8,10 +8,34 @@
 
 .header-contents {
   position: absolute;
+  display: flex;
   flex-direction: column;
   align-items: start;
   gap: 1.5vw;
   max-width: 50%;
   bottom: 10%;
   left: 6vw;
+  animation: fadeIn 3s;
+}
+
+.header-title {
+  font-weight: 500;
+  color: #ffffff;
+  font-size: max(4.5vw, 22px);
+}
+
+.header-subtitle {
+  color: #ffffff;
+  font-size: 1vw;
+}
+
+.header-button {
+  border: none;
+  color: #747474;
+  padding: 1vw 2.3vw;
+  background-color: #ffffff;
+  font-size: max(1.2vw, 13px);
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 50px;
 }

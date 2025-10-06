@@ -7,7 +7,7 @@ const Header = () => {
       <div className="header-contents">
         <h2 className="header-title">Order your favourite food here!</h2>
         <p className="header-subtitle">
-          Choose from diverse menu featuring a detelicious variety of cuisines.
+          Experience bold flavors with our diverse menu, featuring international favorites and comforting local classics. Made with fresh ingredients and creative flair, every bite, whether spicy, refreshing, or sweet, delivers a unique and delicious experience.
         </p>
         <button className="header-button">View Menu</button>
       </div>
