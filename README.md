@@ -1,4 +1,4 @@
-🍽️ Restaurant Website
+🍽️ Sample Restaurant Website
 
 A modern, responsive Restaurant Website built using React.js.
 This project showcases the restaurant’s menu, services, and contact information — providing users with an intuitive and engaging dining experience online.
